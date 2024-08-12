@@ -1,3 +1,8 @@
+
+<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+ 
+### Hi there 👋 I am Frederick Mercedes aka @tellmefred
+
 - 👋 Hi, I’m @tellmefred
 - 👀 I am passionate about cybersecurity and committed to advancing my skills to help create a safer internet.
 As technology rapidly evolves, I am driven to address the associated risks. Additionally, I am fascinated by innovations in artificial intelligence and the potential it has to transform industries.
