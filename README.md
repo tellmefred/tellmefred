@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frederick Mercedes</h1>
 <h3 align="center">Always learning something new.</h3>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmefred&label=Profile%20views&color=0e75b6&style=flat" alt="tellmefred" /> </p>
 
 - 👀 I am passionate about cybersecurity and committed to advancing my skills to help create a safer internet.
