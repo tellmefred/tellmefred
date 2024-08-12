@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Frederick Mercedes aka @tellmefred</h1>
-<h3 align="center">Always learning something new, passionate about cybersecurity.</h3>
+<h1 align="center">Hi 👋, I'm Frederick Mercedes</h1>
+<h3 align="center">Always learning something new.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmefred&label=Profile%20views&color=0e75b6&style=flat" alt="tellmefred" /> </p>
 
