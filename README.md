@@ -1,18 +1,24 @@
+<h1 align="center">Hi 👋, I'm Frederick Mercedes aka @tellmefred</h1>
+<h3 align="center">Always learning something new, passionate about cybersecurity.</h3>
 
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-### Hi there 👋 I am Frederick Mercedes aka @tellmefred
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmefred&label=Profile%20views&color=0e75b6&style=flat" alt="tellmefred" /> </p>
 
-- 👋 Hi, I’m @tellmefred
-- 👀 I am passionate about cybersecurity and committed to advancing my skills to help create a safer internet.
-As technology rapidly evolves, I am driven to address the associated risks. Additionally, I am fascinated by innovations in artificial intelligence and the potential it has to transform industries.
-The dynamic IT sector captivates me, and I am eager to contribute to its ongoing advancements.
-- 🌱 Currently, I am learning about networks, programming, and cloud computing, all with a focus on enhancing cybersecurity.
-As technology rapidly evolves, I am driven to address the associated risks and contribute to a safer internet environment.
-The dynamic IT sector, with its continuous advancements in artificial intelligence and other areas, captivates me, and I am eager to leverage my knowledge to make meaningful contributions and help shape a secure and innovative future.
-- 📫 How to reach me ... you can find me in Linkedln [https://www.linkedin.com/in/frederick-mercedes-santana-0b636314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+- 🔭 I’m currently working on [CTF Write-ups](https://github.com/tellmefred/write-ups)
 
-<!---
-tellmefred/tellmefred is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **about networks, programming (Python), and cloud computing, all with a focus on enhancing cybersecurity.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tellmefred/write-ups](https://github.com/tellmefred/write-ups)
+
+- My LinkedIn [https://www.linkedin.com/in/frederick-mercedes-santana-0b636314a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmWTXyU95Sqay0gGdHT2BZA%3D%3D](https://www.linkedin.com/in/frederick-mercedes-santana-0b636314a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmWTXyU95Sqay0gGdHT2BZA%3D%3D)
+
+- 💬 Ask me about **CTF, networks, AI**
+
+- 📫 How to reach me **fsantana098@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/frederick mercedes santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frederick mercedes santana" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
