@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmefred&label=Profile%20views&color=0e75b6&style=flat" alt="tellmefred" /> </p>
 
+- 👀 I am passionate about cybersecurity and committed to advancing my skills to help create a safer internet.
+
 - 🔭 I’m currently working on [Write-ups](https://github.com/tellmefred/write-ups)
 
 - 🌱 I’m currently learning **about networks, programming (Python), and cloud computing, all with a focus on enhancing cybersecurity.**
