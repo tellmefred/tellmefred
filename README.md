@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frederick Mercedes</h1>
-<h3 align="center">Always learning something new.</h3>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F747&multiline=true&width=435&height=205&lines=nc+-lvnp+9001;listening+on+%5Bany%5D+9001+...+;connect+to+%5Btellmefred%5D+profile;%24+script+%2Fdev%2Fnull+-c+%2Fbin%2Fbash;tellmefred%40profile%3A~%24+cat+user.txt;..............................;............Rooted............;..............................)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmefred&label=Profile%20views&color=0e75b6&style=flat" alt="tellmefred" /> </p>
 
@@ -15,11 +13,9 @@
 <h2>📚🌱 <strong>Now I'm Learning</strong></h2>
 <ul>
     <li>Advanced Penetration Testing Techniques</li>
-    <li>Cloud Security Best Practices</li>
     <li>Threat Hunting and Incident Response</li>
     <li>Reverse Engineering and Malware Analysis</li>
     <li>Artificial Intelligence (AI) For Cybersecurity</li>
-    <li>Bash Scripting for Automation</li>
     <li>Python for Cybersecurity</li>
 </ul>
 
@@ -29,7 +25,6 @@
     <li>Cybersecurity & Ethical Hacking</li>
     <li>Penetration Testing Techniques</li>
     <li>Vulnerability Assessment</li>
-    <li>Network Security</li>
 </ul>
 
   <h2>🔧 <strong>Tools I Use</strong></h2>
