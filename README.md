@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frederick Mercedes</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F747&multiline=true&width=435&height=205&lines=nc+-lvnp+9001;listening+on+%5Bany%5D+9001+...+;connect+to+%5Btellmefred%5D+profile;%24+script+%2Fdev%2Fnull+-c+%2Fbin%2Fbash;tellmefred%40profile%3A~%24+cat+user.txt;..............................;............Rooted............;..............................)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=700&color=00F747&multiline=true&width=435&height=205&lines=nc+-lvnp+9001;listening+on+%5Bany%5D+9001+...+;connect+to+%5Btellmefred%5D+profile;%24+script+%2Fdev%2Fnull+-c+%2Fbin%2Fbash;tellmefred%40profile%3A~%24+cat+user.txt;..............................;............rooted............;..............................)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmefred&label=Profile%20views&color=0e75b6&style=flat" alt="tellmefred" /> </p>
 
